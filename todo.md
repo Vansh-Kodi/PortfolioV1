@@ -1,0 +1,7 @@
+- [ ] Attach resume.pdf
+- [ ] Replace `email@example.com` with real email in Home.jsx & About.jsx
+- [ ] Replace `https://github.com`, `https://linkedin.com/in`, etc. with real profile links
+- [ ] Replace `https://placehold.co` images with real assets
+- [ ] Replace placeholder work experience with real experience
+- [ ] Replace sample blog posts with real content
+- [ ] Replace sample projects with real projects
